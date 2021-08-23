@@ -1,3 +1,8 @@
+"""
+This is a word adventure mini-game where the User interface is your own imagination.
+Enjoy !!!
+"""
+
 name = input("Type your name: ")
 print("Welcome", name, "to this adventure!")
 
