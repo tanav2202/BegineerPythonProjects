@@ -1,3 +1,9 @@
+"""
+This is a python terminal game where first the user inputs the range for the computer to choose a number from (0  , user input number). 
+Then user guesses to match the number chosen by Computer 
+End output is number of guesses taken by user
+"""
+
 import random
 
 top_of_range = input(
