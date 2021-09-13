@@ -7,6 +7,7 @@ git clone to local
 make sure prerequisites to run python files are there
 run file in terminal 
 ```
+### Difficulty Level increases as you go down
 **1. WordGame**
   - After Running in terminal it will give you options 
   - Choose the correct ones to win
