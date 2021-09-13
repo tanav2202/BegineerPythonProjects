@@ -1,3 +1,2 @@
 # BegineerPythonProjects
-Starting out with Python i made these begineer projects 
-This is kinda a store for it
+Adding all begineer level Python projects I make
