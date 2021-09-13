@@ -28,7 +28,7 @@ run file in terminal
          pip install webbrowser
          ```
     - To change text used for spamming edit line 9 
-       - change the word to spam to whatever u want  
+       - change the word spam to whatever u want  
     - To change number of times the text is sent edit line 8 
        - change the number 70 to the number of time text will be sent 
     - Once you run the program it will open whattsapp web
